@@ -33,9 +33,6 @@ class Ui_MainWindow(object):
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
 
-        self.
-
-
 
 
     def retranslateUi(self, MainWindow):
